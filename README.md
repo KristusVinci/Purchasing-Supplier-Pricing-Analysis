@@ -33,10 +33,7 @@ quotations.
 -   **DAX** --- purchasing KPIs, average unit prices, and estimated
     savings calculations
 -   **CSV** --- source data imported into Power BI
-
-> SQL scripts can be added to this repository separately once the
-> project-related queries have been saved and documented. The current
-> Power BI report primarily demonstrates Power BI and DAX.
+-   **SQL** --- Data filtering queries
 
 ## Dataset
 
@@ -68,23 +65,23 @@ Downlight, and Driver.
 
 ### Completed Spend by Material
 
-  Material      Completed spend
-  ----------- -----------------
-  LED Panel          ₱94,910.00
-  Downlight          ₱33,475.00
-  Driver             ₱22,525.00
-  **Total**     **₱150,910.00**
+| Material       | Completed Spend |
+|----------------- |--------------------------:|
+| LED Panel  | ₱94,910.00           |
+| Downlight   | ₱33,475.00           |
+| Driver          | ₱22,525.00           |
+| **Total**    | **₱150,910.00**  |
 
 LED Panels account for approximately 62.9% of completed purchasing
 spend, making them a useful priority for further pricing review.
 
 ### Lowest Recorded Average Unit Price by Material
 
-  Material      Lowest average unit price Supplier
-  ----------- --------------------------- ------------------
-  LED Panel                       ₱817.50 Metro Electrical
-  Downlight                       ₱295.00 Metro Electrical
-  Driver                          ₱170.00 Metro Electrical
+| Material       | Lowest Average Unit Price | Supplier                  |
+|-----------------|---------------------------------------:|---------------------------|
+| LED Panel  | ₱817.50                                | Metro Electrical     |
+| Downlight   | ₱295.00                                | Metro Electrical     |
+| Driver          | ₱170.00                                | Metro Electrical     |
 
 Within this sample, Metro Electrical has the lowest recorded average
 unit price for all three material categories. Price alone, however, does
