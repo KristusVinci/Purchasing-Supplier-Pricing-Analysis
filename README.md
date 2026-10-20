@@ -56,12 +56,12 @@ Downlight, and Driver.
 
 ### Purchasing Status and Expenditure
 
-  Metric                               Result
-  ----------------------------- -------------
-  Completed purchasing spend      ₱150,910.00
-  Pending purchasing value         ₱21,300.00
-  Completed purchase records         13 of 15
-  Estimated potential savings       ₱8,822.50
+| Metric                         | Result       |
+|--------------------------------|-------------:|
+| Completed purchasing spend     | ₱150,910.00  |
+| Pending purchasing value       | ₱21,300.00   |
+| Completed purchase records     | 13 of 15     |
+| Estimated potential savings    | ₱8,822.50    |
 
 ### Completed Spend by Material
 
