@@ -1,0 +1,16 @@
+"purchase_id","purchase_date","supplier","material","quantity","unit_price","status"
+1,"2026-01-05",Alpha Supplies,LED Panel,20,850.0,Completed
+2,"2026-01-08",Bright Source,LED Panel,15,920.0,Completed
+3,"2026-01-10",Alpha Supplies,Downlight,30,320.0,Completed
+4,"2026-01-12",Metro Electrical,Downlight,25,295.0,Completed
+5,"2026-01-15",Bright Source,LED Panel,10,890.0,Pending
+6,"2026-01-18",Metro Electrical,LED Panel,25,810.0,Completed
+7,"2026-01-20",Alpha Supplies,Driver,40,180.0,Completed
+8,"2026-01-22",Bright Source,Driver,35,195.0,Completed
+9,"2026-01-25",Metro Electrical,Downlight,40,310.0,Pending
+10,"2026-01-28",Alpha Supplies,LED Panel,12,870.0,Completed
+11,"2026-02-02",Bright Source,Downlight,30,340.0,Completed
+12,"2026-02-04",Metro Electrical,Driver,50,170.0,Completed
+13,"2026-02-08",Alpha Supplies,Downlight,20,315.0,Completed
+14,"2026-02-10",Bright Source,LED Panel,18,940.0,Completed
+15,"2026-02-12",Metro Electrical,LED Panel,20,825.0,Completed
