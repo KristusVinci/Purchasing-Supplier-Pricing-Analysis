@@ -30,10 +30,9 @@ quotations.
 ## Tools Used
 
 -   **Power BI Desktop** --- report visuals and interactive filtering
--   **DAX** --- purchasing KPIs, average unit prices, and estimated
-    savings calculations
+-   **DAX** --- purchasing KPIs, average unit prices, and estimated savings calculations
 -   **CSV** --- source data imported into Power BI
--   **SQL** --- Data filtering queries
+-   **SQL** --- Data analysis, aggregation, filtering, and supplier comparisons
 
 ## Dataset
 
